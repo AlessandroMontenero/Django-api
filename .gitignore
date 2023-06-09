@@ -1,0 +1,4 @@
+/.dockerignore
+/Dockerfile
+/compose.yaml
+/db.sqlite3
